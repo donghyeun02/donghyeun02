@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align = "center">
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Donghyeun02&fontSize=70" />
+</div>
 
-<!--
-**donghyeun02/donghyeun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+  <div>💻 Tech Stack 💻</div><br>
+  <div>🥕 Languages & Platforms🥕</div>
+  <div display = "flex">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Java&logoColor=white" />
+  </div><br>
+  <div>🧰 Tools 🧰</div>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Java&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "center">
+  <div>
+    <a href = "https://velog.io/@bandh">Velog</a>
+  </div>
+</div>
