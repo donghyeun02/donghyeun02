@@ -76,7 +76,9 @@
 
 <h2>From My Blog 🧑‍💻</h2>
 <div align=center>
-  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=bandh&color=dark">
+  <a href="https://velog.io/@bandh">
+    <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=bandh&color=dark">
+  </a>
 </div>
 <br>
 
