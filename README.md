@@ -118,6 +118,7 @@
 
 <br><br><br>
 
+
 <!-- GitAnimal -->
 
 <p align="center">🐾 Meet my GitAnimal! 🐾</p>
@@ -128,3 +129,13 @@
     height="120"
   />
 </a>
+
+<br><br>
+
+<!-- 🍌 Just some JavaScript fun -->
+
+
+```Javascript
+('b' + 'a' + + 'a' +'a').toLowerCase();                                                                    // banana
+```
+> Sometimes JS is weird. Sometimes it’s just… 🍌 bananas.
