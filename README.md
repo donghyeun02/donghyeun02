@@ -136,6 +136,6 @@
 
 
 ```Javascript
-('b' + 'a' + + 'a' +'a').toLowerCase();                                                                    // banana
+('b' + 'a' + + 'a' +'a').toLowerCase();                                                              // banana
 ```
 > Sometimes JS is weird. Sometimes it’s just… 🍌 bananas.
