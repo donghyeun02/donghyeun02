@@ -101,7 +101,7 @@
   <tr>
     <th colspan="1" align="center">활동증명서</th>
     <th colspan="1" align="center">수료증</th>
-<!--     <th colspan="1" align="center">수료증</th> -->
+    <th colspan="1" align="center">수료증</th>
   </tr>
   <tr>
     <td align="center">
@@ -110,9 +110,9 @@
         <td align="center">
       <img src="https://github.com/user-attachments/assets/58bbbf21-ba58-4867-8681-73edfd92c595" width="400">
     </td>
-<!--     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f" width="300">
-    </td> -->
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c9fa5f0b-7693-4f46-b656-d97c0751c9e8" width="400">
+    </td>
   </tr>
 </table>
 
