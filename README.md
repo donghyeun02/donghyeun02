@@ -5,12 +5,15 @@
 > _True growth happens when you break your own shell. If someone else does it for you, it’s over easy._
 <br>
 
+
+
 <!-- Git stat, languages -->
 
 <h3>Git Stats & My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/donghyeun02">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=donghyeun02&hide_title=true&theme=nord&fontSize=70" />
+    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true&fontSize=70" />
   </a>
   
   <a href="https://github.com/donghyeun02">
