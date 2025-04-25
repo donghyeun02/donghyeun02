@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/donghyeun02">
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true&fontSize=70" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true&fontSize=70" width = "400" />
   </a>
   
   <a href="https://github.com/donghyeun02">
