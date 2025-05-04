@@ -1,12 +1,5 @@
 <h3>Hi there, I'm Donghyeun Shin 👋</h3>
-
-> 🐣 스스로 깨면 병아리, 남이 깨면 후라이.
->
-> _True growth happens when you break your own shell. If someone else does it for you, it’s over easy._
 <br>
-
-
-
 <!-- Git stat, languages -->
 
 <h3>Git Stats & My Most Used Languages 💡</h3>
