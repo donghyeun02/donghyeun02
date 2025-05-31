@@ -112,21 +112,7 @@
   </tr>
 </table>
 
-<br><br><br>
-
-
-<!-- GitAnimal -->
-
-<p align="center">🐾 Meet my GitAnimal! 🐾</p>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=donghyeun02&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/donghyeun02?pet-id=697039009510491424"
-    width="1000"
-    height="120"
-  />
-</a>
-
-<br><br>
+<br><br><br><br><br><br><br>
 
 <!-- 🍌 Just some JavaScript fun -->
 
