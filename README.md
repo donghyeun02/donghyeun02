@@ -1,123 +1,181 @@
-<h3>Hi there, I'm Donghyeun Shin 👋</h3>
-<br>
-<!-- Git stat, languages -->
+<h1 align="center">Hi there, I'm Donghyeun Shin 👋</h1>
+<p align="center">
+  Backend Developer • Java & Spring Boot • Node.js
+</p>
 
-<h3>Git Stats & My Most Used Languages 💡</h3>
+<br>
+
+<!-- GitHub Stats -->
+
+<h2>GitHub Stats 📊</h2>
+
 <p align="center">
   <a href="https://github.com/donghyeun02">
-    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true&fontSize=70" width = "400" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true"
+      width="450"
+    />
   </a>
-  
+
   <a href="https://github.com/donghyeun02">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyeun02&layout=compact&hide_title=true&theme=nord" width="370"/>
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=donghyeun02&layout=compact&theme=nord"
+      width="340"
+    />
   </a>
 </p>
+
+<br>
 
 <!-- Contact -->
 
 <h2>Contact Me 📬</h2>
-<div>
+
+<p>
   <a href="https://velog.io/@bandh">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=donghyeun02" />
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=bandh" />
   </a>
-  
+
   <a href="mailto:donghyeun02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br>
 
-<!-- Languages & Platforms -->
+<!-- Skills -->
 
-<h2>Skills</h2>
+<h2>Tech Stack 💻</h2>
 
-<h4>Used often</h4>
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-</div> <br>
+<h4>Backend</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 <h4>Infrastructure & Database</h4>
-  <div>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  </div> 
-  
-  <div>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  </div>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 <br>
 
 <!-- Tools -->
 
-<h2>Tools I use</h2>
-<div>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-</div>
+<h2>Tools 🛠️</h2>
 
-<div>
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-</div>
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
 <br>
 
 <!-- Blog -->
 
-<h2>From My Blog 🧑‍💻</h2>
-<div align=center>
-  <a href="https://velog.io/@bandh">
-    <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=bandh&color=dark">
-  </a>
-</div>
-<br>
+<h2>Featured Articles ✍️</h2>
 
-<!-- Certificates & Experience -->
-
-<h2>Certificates & Experience</h2>
-<h4>Education</h4>
-
-* 2021 영남대학교 컴퓨터공학과 <br>
-  -> B.S. in Computer Science, Yeungnam University (Expected 2027)
-
-<h4>Internship</h4>
-
-* 2023 인티그레이션 , Integration Co. ECP(E-Commerce Platform)팀 <br>
-  -> Backend Developer Intern
-
-<h4>Certificates 📄</h4>
-
-<table align="center">
+<table>
   <tr>
-    <th colspan="1" align="center">활동증명서</th>
-    <th colspan="1" align="center">수료증</th>
-    <th colspan="1" align="center">수료증</th>
+    <td>
+      <b>자리를 비운 사이 서비스가 더 단단해지는 법</b><br>
+      Built an AI-powered Red Team / Blue Team workflow for continuous security hardening.
+      <br><br>
+      <a href="https://www.donghyeun02.com/post/hardening">Read Article →</a>
+    </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3c719f1f-2496-4076-9c65-3cfd346babe0" width="400">
-    </td>
-        <td align="center">
-      <img src="https://github.com/user-attachments/assets/58bbbf21-ba58-4867-8681-73edfd92c595" width="400">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c9fa5f0b-7693-4f46-b656-d97c0751c9e8" width="400">
+    <td>
+      <b>Claude가 이미 아는 내용을 왜 스킬로 넣지?</b><br>
+      Contributing the <code>prisma-patterns</code> skill to ECC and exploring why AI needs guardrails instead of duplicated documentation.
+      <br><br>
+      <a href="https://www.donghyeun02.com/post/eccOpensource">Read Article →</a>
     </td>
   </tr>
 </table>
 
-<br><br><br><br><br><br><br>
+<br>
 
-<!-- 🍌 Just some JavaScript fun -->
+<!-- Education -->
 
+<h2>Education 🎓</h2>
 
-```Javascript
-('b' + 'a' + + 'a' +'a').toLowerCase();                                                              // banana
+**Yeungnam University**  
+_B.S. in Computer Science (Expected 2027)_
+
+<br>
+
+<!-- Experience -->
+
+<h2>Experience 💼</h2>
+
+### Integration Co. (2023)
+
+**Backend Developer Intern**
+
+- E-Commerce Platform (ECP) Team
+
+<br>
+
+<!-- Open Source -->
+
+<h2>Open Source Contributions 🚀</h2>
+
+### ECC (Everything Claude Code)
+
+Developed and contributed the **`prisma-patterns`** skill for the ECC open-source project.
+
+- ✨ Added a new `prisma-patterns` skill for Prisma ORM (Prisma 5.x / 6.x).
+- 📚 Documented production-ready patterns, transactions, pagination, migrations, error handling, and common pitfalls.
+- 📦 Registered the skill in the database module.
+- ✅ Merged Pull Request: <a href="https://github.com/affaan-m/ECC/pull/1893">#1893</a>
+
+Repository: https://github.com/affaan-m/ECC
+
+<br>
+
+<!-- Certificates -->
+
+<h2>Certificates 📄</h2>
+
+<table align="center">
+  <tr>
+    <th>Activity Certificate</th>
+    <th>Certificate</th>
+    <th>Certificate</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3c719f1f-2496-4076-9c65-3cfd346babe0" width="320">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/58bbbf21-ba58-4867-8681-73edfd92c595" width="320">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c9fa5f0b-7693-4f46-b656-d97c0751c9e8" width="320">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Fun -->
+
+<h2>Just for Fun 🍌</h2>
+
+```javascript
+('b' + 'a' + + 'a' + 'a').toLowerCase(); // banana
 ```
-> Sometimes JS is weird. Sometimes it’s just… 🍌 bananas.
+
+> Sometimes JavaScript is weird. Sometimes it's just... 🍌 bananas.
