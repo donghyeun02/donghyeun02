@@ -1,181 +1,109 @@
-<h1 align="center">Hi there, I'm Donghyeun Shin 👋</h1>
-<p align="center">
-  Backend Developer • Java & Spring Boot • Node.js
-</p>
+<h1 align="center">Donghyeun Shin</h1>
 
-<br>
+  <p align="center">
+    Backend Developer &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Node.js
+  </p>
 
-<!-- GitHub Stats -->
+  <p align="center">
+    <a href="https://www.donghyeun02.com">Blog</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:donghyeun02@gmail.com">donghyeun02@gmail.com</a>
+  </p>
 
-<h2>GitHub Stats 📊</h2>
+  <br>
 
-<p align="center">
-  <a href="https://github.com/donghyeun02">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true"
-      width="450"
-    />
-  </a>
+  ---
 
-  <a href="https://github.com/donghyeun02">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=donghyeun02&layout=compact&theme=nord"
-      width="340"
-    />
-  </a>
-</p>
+  ## Tech Stack
 
-<br>
+  **Backend**
 
-<!-- Contact -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </p>
 
-<h2>Contact Me 📬</h2>
+  **Infrastructure & Database**
 
-<p>
-  <a href="https://velog.io/@bandh">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=bandh" />
-  </a>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
 
-  <a href="mailto:donghyeun02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <br>
 
-<br>
+  ---
 
-<!-- Skills -->
+  ## Experience
 
-<h2>Tech Stack 💻</h2>
+  ### Integration Co.
 
-<h4>Backend</h4>
+  **Backend Developer Intern** · 2023. 07 – 2023. 09<br>
+  E-Commerce Platform (ECP) Team
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+  <br>
 
-<h4>Infrastructure & Database</h4>
+  ---
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+  ## Open Source
 
-<br>
+  ### ECC — Everything Claude Code
 
-<!-- Tools -->
+TypeScript 백엔드에서 Prisma를 쓸 때 참고할 **`prisma-patterns`** 스킬을 만들어 기여했다.<br>
+스키마 설계와 쿼리 최적화, 그리고 `updateMany`가 레코드 대신 개수를 반환한다거나
+`migrate dev`가 DB를 통째로 리셋해버리는 것처럼 한 번 겪어봐야 아는 동작들을 모았다.
 
-<h2>Tools 🛠️</h2>
+  <a href="https://github.com/affaan-m/ECC/pull/1893">Pull Request #1893</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/affaan-m/ECC">affaan-m/ECC</a>
 
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</p>
+  <br>
 
-<br>
+  ---
 
-<!-- Blog -->
+  ## Writing
 
-<h2>Featured Articles ✍️</h2>
+> **[자리를 비운 사이 서비스가 더 단단해지는 법](https://www.donghyeun02.com/post/hardening)**<br>
+> AI 기반 Red Team / Blue Team 워크플로우로 지속적인 보안 하드닝 파이프라인
 
-<table>
-  <tr>
-    <td>
-      <b>자리를 비운 사이 서비스가 더 단단해지는 법</b><br>
-      Built an AI-powered Red Team / Blue Team workflow for continuous security hardening.
-      <br><br>
-      <a href="https://www.donghyeun02.com/post/hardening">Read Article →</a>
-    </td>
-  </tr>
+> **[Claude가 이미 아는 내용을 왜 스킬로 넣지?](https://www.donghyeun02.com/post/eccOpensource)**<br>
+> `prisma-patterns` 스킬 기여
 
-  <tr>
-    <td>
-      <b>Claude가 이미 아는 내용을 왜 스킬로 넣지?</b><br>
-      Contributing the <code>prisma-patterns</code> skill to ECC and exploring why AI needs guardrails instead of duplicated documentation.
-      <br><br>
-      <a href="https://www.donghyeun02.com/post/eccOpensource">Read Article →</a>
-    </td>
-  </tr>
-</table>
+  <br>
 
-<br>
+  ---
 
-<!-- Education -->
+  ## Education
 
-<h2>Education 🎓</h2>
+  **영남대학교** · 컴퓨터공학과 학사<br>
+  2027년 졸업 예정
 
-**Yeungnam University**  
-_B.S. in Computer Science (Expected 2027)_
+  <br>
 
-<br>
+  <details>
+  <summary><b>Certificates</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/3c719f1f-2496-4076-9c65-3cfd346babe0" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/58bbbf21-ba58-4867-8681-73edfd92c595" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/c9fa5f0b-7693-4f46-b656-d97c0751c9e8" width="300"></td>
+    </tr>
+  </table>
+  </details>
 
-<!-- Experience -->
+  <br>
 
-<h2>Experience 💼</h2>
+  ---
 
-### Integration Co. (2023)
+  <br>
 
-**Backend Developer Intern**
-
-- E-Commerce Platform (ECP) Team
-
-<br>
-
-<!-- Open Source -->
-
-<h2>Open Source Contributions 🚀</h2>
-
-### ECC (Everything Claude Code)
-
-Developed and contributed the **`prisma-patterns`** skill for the ECC open-source project.
-
-- ✨ Added a new `prisma-patterns` skill for Prisma ORM (Prisma 5.x / 6.x).
-- 📚 Documented production-ready patterns, transactions, pagination, migrations, error handling, and common pitfalls.
-- 📦 Registered the skill in the database module.
-- ✅ Merged Pull Request: <a href="https://github.com/affaan-m/ECC/pull/1893">#1893</a>
-
-Repository: https://github.com/affaan-m/ECC
-
-<br>
-
-<!-- Certificates -->
-
-<h2>Certificates 📄</h2>
-
-<table align="center">
-  <tr>
-    <th>Activity Certificate</th>
-    <th>Certificate</th>
-    <th>Certificate</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3c719f1f-2496-4076-9c65-3cfd346babe0" width="320">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/58bbbf21-ba58-4867-8681-73edfd92c595" width="320">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c9fa5f0b-7693-4f46-b656-d97c0751c9e8" width="320">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Fun -->
-
-<h2>Just for Fun 🍌</h2>
-
-```javascript
-('b' + 'a' + + 'a' + 'a').toLowerCase(); // banana
-```
-
-> Sometimes JavaScript is weird. Sometimes it's just... 🍌 bananas.
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=donghyeun02&show_icons=true&count_private=true&theme=nord&include_all_commits=true&hide_border=true" height="170" />
+    &nbsp;
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=donghyeun02&layout=compact&theme=nord&hide_border=true" height="170" />
+  </p>
