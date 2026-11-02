@@ -1,7 +1,7 @@
 <h1 align="center">Donghyeun Shin</h1>
 
   <p align="center">
-    Backend Developer &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Node.js
+    개발환경을 고치는 신입 개발자 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; LLM 개발 도구
   </p>
 
   <p align="center">
@@ -14,11 +14,32 @@
 
   ---
 
+  ## Projects
+
+  ### [skilleval](https://github.com/donghyeun02/skilleval)
+
+에이전트 스킬 결과를 코드로 채점하고, 통과하던 검사가 실패로 바뀌면 CI를 멈추는 TypeScript CLI.<br>
+게임 레퍼런스 스킬의 규칙 준수율을 스킬 미적용 17% → 적용 97%로 측정했다.
+
+  ### [skill-kit](https://github.com/donghyeun02/skill-kit)
+
+직접 만들어 쓰는 Claude Code 스킬·플러그인 마켓플레이스.<br>
+결과를 에이전트 대신 파이썬 게이트가 판정하는 gyeol, 레드팀·블루팀 하드닝 커맨드 `/redteam`·`/harden`.
+
+  ### [blog](https://github.com/donghyeun02/blog)
+
+직접 만든 도구를 얹어 가는 개인 사이트. `/harden` 사이클로 보안 점수 62 → 99, 위젯 지연 로딩으로 글 페이지 JS 476KB → 176KB.
+
+  <br>
+
+  ---
+
   ## Tech Stack
 
-  **Backend**
+  **Language & Backend**
 
   <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,8 +63,8 @@
 
   ### Integration Co.
 
-  **Backend Developer Intern** · 2023. 07 – 2023. 09<br>
-  E-Commerce Platform (ECP) Team
+  **Backend Developer Intern** · 2023. 07 – 2023. 08<br>
+  알고봇: 한의원 대상 AI 컨설팅 서비스 (Node.js · Fastify · PostgreSQL · OpenAI API)
 
   <br>
 
