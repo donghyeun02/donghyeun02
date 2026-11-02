@@ -19,7 +19,7 @@
   ### [skilleval](https://github.com/donghyeun02/skilleval)
 
 에이전트 스킬 결과를 코드로 채점하고, 통과하던 검사가 실패로 바뀌면 CI를 멈추는 TypeScript CLI.<br>
-게임 레퍼런스 스킬의 규칙 준수율을 스킬 미적용 17% → 적용 97%로 측정했다.
+게임 레퍼런스 스킬의 출력 규칙 통과율을 측정했다: 스킬 미적용 17%, 적용 97% (검사 30개).
 
   ### [skill-kit](https://github.com/donghyeun02/skill-kit)
 
@@ -28,7 +28,7 @@
 
   ### [blog](https://github.com/donghyeun02/blog)
 
-직접 만든 도구를 얹어 가는 개인 사이트. `/harden` 사이클로 보안 점수 62 → 99, 위젯 지연 로딩으로 글 페이지 JS 476KB → 176KB.
+직접 만든 도구를 얹어 가는 개인 사이트. `/harden` 사이클로 자체 기준 보안 점수 62 → 99, 위젯 지연 로딩으로 글 페이지 JS 476KB → 176KB.
 
   <br>
 
