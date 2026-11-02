@@ -78,7 +78,7 @@ TypeScript 백엔드에서 Prisma를 쓸 때 참고할 **`prisma-patterns`** 스
 스키마 설계와 쿼리 최적화, 그리고 `updateMany`가 레코드 대신 개수를 반환한다거나
 `migrate dev`가 DB를 통째로 리셋해버리는 것처럼 한 번 겪어봐야 아는 동작들을 모았다.
 
-  <a href="https://github.com/affaan-m/ECC/pull/1893">Pull Request #1893</a>
+  <a href="https://github.com/affaan-m/ECC/pull/1893">PR #1893</a> → 메인테이너 통합 <a href="https://github.com/affaan-m/ECC/pull/1905">PR #1905</a>로 반영
   &nbsp;·&nbsp;
   <a href="https://github.com/affaan-m/ECC">affaan-m/ECC</a>
 
