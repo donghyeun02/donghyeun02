@@ -1,7 +1,7 @@
 <h1 align="center">Donghyeun Shin</h1>
 
   <p align="center">
-    개발환경을 고치는 개발자 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; LLM 개발 도구
+    AI와 함께 일하는 개발환경을 만드는 개발자 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; LLM 개발 도구
   </p>
 
   <p align="center">
