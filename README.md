@@ -1,7 +1,7 @@
 <h1 align="center">Donghyeun Shin</h1>
 
   <p align="center">
-    개발환경을 고치는 신입 개발자 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; LLM 개발 도구
+    개발환경을 고치는 개발자 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; LLM 개발 도구
   </p>
 
   <p align="center">
@@ -101,7 +101,7 @@ TypeScript 백엔드에서 Prisma를 쓸 때 참고할 **`prisma-patterns`** 스
   ## Education
 
   **영남대학교** · 컴퓨터공학과 학사<br>
-  2027년 졸업 예정
+  2028년 2월 졸업 예정
 
   <br>
 
